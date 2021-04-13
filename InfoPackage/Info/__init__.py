@@ -22,3 +22,4 @@ def login():
         return login()
 
 __version__ = 'dev'
+ name = “Zinfo”
